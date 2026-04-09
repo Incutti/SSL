@@ -2,7 +2,6 @@
 
 int main() {
     printf("Hello, world!\n");
-    printf("%ld", __STDC_VERSION__);
-    printf("\n");
+    printf("%ld\n", __STDC_VERSION__);
     return 0;
 }

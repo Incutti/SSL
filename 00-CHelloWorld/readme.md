@@ -1,5 +1,5 @@
-compilador: gcc 
+compilador: clang-18 
 
-version del compilador: gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+version del compilador: Ubuntu clang version 18.1.8 
 
-version de c: 202000
+version de c: 202311
